@@ -10,3 +10,13 @@
     background-color: rgba(1, 32, 93, 0.6);
     color: white;
 }
+.nav-item .text-decoration-none {
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+  
+  .nav-item .text-decoration-none:hover {
+    background-color: #17a2b7; 
+    color: #ffffff;
+  
+  }
+  
